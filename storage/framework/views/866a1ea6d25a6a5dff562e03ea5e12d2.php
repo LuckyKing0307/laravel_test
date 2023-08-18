@@ -1,0 +1,1 @@
+about.php<?php /**PATH D:\xampp\htdocs\laravel\resources\views/pages/about.blade.php ENDPATH**/ ?>
