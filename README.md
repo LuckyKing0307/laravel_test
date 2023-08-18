@@ -2,4 +2,6 @@
 
 /php artisan migrate <br>
 /php artisan db:seed <br>
+login:admin
+pass:admin
 Than start using project)
